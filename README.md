@@ -1,11 +1,4 @@
-# Paginas-HTML-CSS
-
-## Techs usada 
-```
-- HTML 
-- CSS
-```
-<hr>
+# Prática HTML e CSS
 
 ## Sobre Projeto: 
 ```
@@ -14,12 +7,20 @@ O projeto tem uma estrutura simples com 3 páginas para prática de HTML e CSS b
 - Quem Somos
 - Contatos
 
-O layout e as cores são voltado para produção rural, com tons de marrons e imagens relacionadas ao tema. 
+O layout e as cores são voltado para produção rural, com tons de marrons e imagens relacionadas
+ao tema. 
 Origem das imagens site FREEPIK.
 ```
 
 
 <hr>
+
+
+
+
+
+
+![screencapture-127-0-0-1-5500-index-html-2020-03-31-23_29_41](https://user-images.githubusercontent.com/46323667/78094043-f5479d80-73a9-11ea-8b8a-174dcb146c0c.png)
 
 
 
