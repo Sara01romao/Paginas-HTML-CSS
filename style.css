@@ -32,6 +32,8 @@ ul h3{
   text-align: right;
   margin: 10px;
   color: white;
+  padding-right: 30px;
+  
 }
 
 li a:hover {
@@ -50,14 +52,23 @@ section{
 }
 
 p{  
-  text-align: justify;
+  text-align: left;
+  margin: 10px;
 }
 
+h1{
+  font-size: 35px;
+  text-align: center;
+}
  section img{
   max-width: 100%;
   display: block;
-  margin: 0 auto;
+    margin: 0 auto;
   
+}
+
+h2{
+  text-align: center;
 }
 /*------------------------------------*/
 
@@ -73,10 +84,13 @@ footer {
 footer p{
   color: white;
   text-align: center;
+ 
     
 }
 
 /*--------------------------------------*/
+
+
 
 
 
